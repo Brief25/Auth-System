@@ -9,9 +9,9 @@ require_once __DIR__ . '/../config/PHPMailer-master/src/SMTP.php';
 require_once __DIR__ . '/../config/PHPMailer-master/src/Exception.php';
 
 // Email credentials for PHPMailer
-define('MAIL_FROM_EMAIL', 'cybernet6533@gmail.com');
+define('MAIL_FROM_EMAIL', '');
 //define('MAIL_FROM_NAME', 'Auth-System');
-define('MAIL_APP_PASSWORD', 'nsbd ciro ficn yylc'); // Use App Password, not your Gmail password
+define('MAIL_APP_PASSWORD', ''); // Use App Password, not your Gmail password
 
 function sendOTPEmail($toEmail, $toName, $otp) {
     
