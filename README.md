@@ -31,7 +31,7 @@ A powerful, secure, and extensible **Authentication System** built with PHP and 
 
 1. **Clone or Download this Repository**
    ```bash
-   git clone https://github.com/your-username/auth-system.git
+   git clone https://github.com/Brief25/Auth-System.git
 
 
 MIT License
